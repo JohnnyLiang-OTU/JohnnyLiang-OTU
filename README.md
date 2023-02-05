@@ -1,4 +1,3 @@
-### Hi there 👋
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/johnny-liang-2766a3234/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,7 +12,7 @@ Of which, the current one is a videogame programmed in java.
 The languages I worked the most with are: <br>
 </div>
 <div align="center">
-  <img src="[https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png)" width="100" height="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="100" height="100" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="100" height="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="100" height="100"/>
 </div>

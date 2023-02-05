@@ -10,9 +10,9 @@
 Of which, the current one is a videogame programmed in java.
   
 The languages I worked the most with are:
-  <imrg src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
+  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg", width="100", height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png", width="100", height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png", width="100", height="100"/>
 </div>
 <!--
 **JohnnyLiang-OTU/JohnnyLiang-OTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

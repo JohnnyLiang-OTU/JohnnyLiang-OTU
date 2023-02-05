@@ -12,7 +12,8 @@ Of which, the current one is a videogame programmed in java.
 The languages I worked the most with are: <br>
 </div>
 <div align="center">
-  <img src="https://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" width="100" height="100" />
+  
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="100" height="100" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="100" height="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="100" height="100"/>
 </div>

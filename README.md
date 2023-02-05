@@ -10,10 +10,17 @@
 
  </div>
 
-### The languages I worked the most with are: <br>
+### Languages / Software / Tools <br>
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40 height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>
+
+    
 </div>
 <!--
 **JohnnyLiang-OTU/JohnnyLiang-OTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

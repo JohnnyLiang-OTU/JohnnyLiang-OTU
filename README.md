@@ -5,17 +5,15 @@
 </div> 
 <hr>
 <div>
-  Hello. I'm a 2nd Year Ontario Tech University student enrolled in Computer Science program. I'm interested in videogames programming, machine learning and AI - what awes me more is machine vision. Unfortunately, I currently have ZERO real work experience in the IT or Videogame industry, however, feel free to check my personal projects which I hope will pique your interest.
-Of which, the current one is a videogame programmed in java.
+  Hello. I'm a 2nd Year Ontario Tech University student enrolled in Computer Science program. I'm interested in videogames programming, machine learning and AI - what awes me more is machine vision. Unfortunately, I currently have ZERO real work experience in the IT or Videogame industry, however, feel free to check my personal projects which I hope will pique your interest. Currently I'm working on a videogame programmed in Java.
+ 
+
  </div>
 
 ### The languages I worked the most with are: <br>
 
-<div align="center">
-  
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="100" height="100" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="100" height="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="100" height="100"/>
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 <!--
 **JohnnyLiang-OTU/JohnnyLiang-OTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

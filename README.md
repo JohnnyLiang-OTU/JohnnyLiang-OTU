@@ -5,7 +5,7 @@
 </div> 
 <hr>
 <div>
-  Hello. I'm a 2nd Year Ontario Tech University student enrolled in Computer Science program. I'm interested in videogames programming, machine learning and AI - what awes me more is machine vision. Unfortunately, I currently have ZERO real work experience in the IT or Videogame industry, however, feel free to check my personal projects which I hope will pique your interest. Currently I'm working on a videogame programmed in Java.
+  Hello. I'm a 2nd Year Ontario Tech University student enrolled in Computer Science program. I'm interested in videogames programming, machine learning and AI development. 
  
 
  </div>

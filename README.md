@@ -5,7 +5,7 @@
 </div> 
 <hr>
 <div>
-  Hello. I'm a 2nd Year Ontario Tech University student enrolled in Computer Science program. I'm interested in videogames programming, machine learning and AI development. 
+  Hello. I'm a 3nd Year Ontario Tech University student enrolled in the Computer Science program. I'm interested in video game programming, machine learning, and AI development. 
  
 
  </div>

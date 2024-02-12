@@ -5,8 +5,8 @@
 </div> 
 <hr>
 <div>
-  Hello. I'm a 3nd Year Ontario Tech University student enrolled in the Computer Science program. My interests are AI and Machine learning.
-  I have experience Java, C++, Python and Flutter.
+  Hello. I'm a 3nd Year Ontario Tech University student enrolled in the Computer Science program.
+  I have experience Java, C++, C, Flutter, and Python.
   I have also worked on Mobile applications, APIs, and other tools.
  
 

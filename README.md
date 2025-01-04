@@ -1,5 +1,5 @@
-<strong> 4th year student attending Ontario Tech University</strong><br>
-This Github is for all my personal projects and university work.<br>
-My main interests are Web development 🛜 and Machine Learning 🤖. <br>
-Currently on my joruney to master Django framework.
-
+<strong>Software Engineer</strong><br>
+Focused on:<br>
+* Machine Learning [[project github](https://github.com/JadenNgoOT/Machine-Learning-Group-Project)]
+* Web Development [[deployed website](https://geratechservices.pythonanywhere.com/)]
+* Data Analysis [[project githu](https://github.com/JohnnyLiang-OTU/retail_analysis)]
